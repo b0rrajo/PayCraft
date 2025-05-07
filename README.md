@@ -9,7 +9,7 @@ Curseforge/Modrinth pages **comming soon**
 > Public file is not ready yet. This is a **PROTOTYPE** of the finals version.
 > Please be careful if you compile there, 
 > 
-> For this mod you will need [forje 1.20.1 (47.2.0)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
+> For this mod you will need [forge 1.20.1 (47.2.0)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 
 <sub>Current version: 0.0.0.1A - Alpha</sub>
 <sub>©️ PAYCRAFT SYSTEMS - 2025</sub>
